@@ -1,3 +1,5 @@
+# Note: This is a fork. The readme of the original repository is below
+
 # mookAI
 mookAI provides combat automation for low-utility NPCs.  
 
